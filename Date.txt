@@ -1,3 +1,4 @@
-Class Date() {
-
+Class Date {
+public:
+	Date();
 };
