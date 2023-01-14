@@ -1,3 +1,4 @@
 Class Manager :public Employee {
-
+public:
+	Manager();
 };
